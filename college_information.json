@@ -1,0 +1,105 @@
+{
+  "college": {
+    "name": "Example Institute of Technology",
+    "note": "Replace this sample data with your actual college information."
+  },
+  "documents": [
+    {
+      "title": "Admissions",
+      "keywords": [
+        "admission",
+        "application",
+        "eligibility",
+        "join",
+        "entrance"
+      ],
+      "content": "Admissions are conducted according to the eligibility rules and schedule published by the college. Students should check the official admission notice for current dates and requirements."
+    },
+    {
+      "title": "Departments",
+      "keywords": [
+        "department",
+        "branch",
+        "course",
+        "program",
+        "aids",
+        "cse",
+        "ece"
+      ],
+      "content": "Sample departments include Computer Science and Engineering, Artificial Intelligence and Data Science, Electronics and Communication Engineering, and Mechanical Engineering. Replace this list with your college's actual departments."
+    },
+    {
+      "title": "Fees",
+      "keywords": [
+        "fee",
+        "fees",
+        "tuition",
+        "payment",
+        "cost"
+      ],
+      "content": "This demo does not contain official fee amounts. Add the current approved tuition, examination, hostel, and other applicable fees from your college's official documents."
+    },
+    {
+      "title": "Hostel",
+      "keywords": [
+        "hostel",
+        "accommodation",
+        "room",
+        "mess"
+      ],
+      "content": "The college may provide hostel accommodation subject to availability and applicable rules. Replace this demo text with official hostel capacity, fees, facilities, and application procedure."
+    },
+    {
+      "title": "Library",
+      "keywords": [
+        "library",
+        "books",
+        "reading",
+        "digital"
+      ],
+      "content": "The college library provides access to academic books, journals, and digital learning resources. Replace this information with your institution's official library details."
+    },
+    {
+      "title": "Transport",
+      "keywords": [
+        "transport",
+        "bus",
+        "route",
+        "travel"
+      ],
+      "content": "College transport information, including routes, timings, and fees, should be maintained using the latest official transport notice."
+    },
+    {
+      "title": "Academic Calendar",
+      "keywords": [
+        "calendar",
+        "semester",
+        "exam",
+        "holiday",
+        "academic"
+      ],
+      "content": "Academic schedules, examination dates, holidays, and semester activities should be updated from the latest official academic calendar."
+    },
+    {
+      "title": "Contact",
+      "keywords": [
+        "contact",
+        "phone",
+        "email",
+        "office",
+        "address"
+      ],
+      "content": "Add your college's official address, phone numbers, email addresses, website, admission office, and emergency contacts here."
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "keywords": [
+        "faq",
+        "question",
+        "help",
+        "information"
+      ],
+      "content": "The assistant is designed to answer common student questions using a controlled college knowledge base and Gemini. It should not invent information that is absent from the knowledge base."
+    }
+  ]
+}
